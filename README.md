@@ -1,0 +1,1 @@
+Vps creation using terraform for DigitalOcean and enabling Docker
